@@ -1,0 +1,7 @@
+* {margin: 0;padding:0;}
+
+
+.header{background-color: black;color: aliceblue;height: 50px;width:100%;}
+.navbar-brand{font-family: Jenna Sue, cursive;}
+.gallery {display: flex;flex-wrap: wrap;justify-content: center;margin-top:0px;background-color:#363948;}
+.thumbnail{margin-top: 20px;}

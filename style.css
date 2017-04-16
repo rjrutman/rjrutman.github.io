@@ -25,7 +25,7 @@ font-family: 'Satisfy', cursive;
 
 .jumbotron h2{
   margin: 0;
-  font-family: Brain Flower;
+  font-family:'Amatic SC', cursive;
   font-size: 7.5em;
   font-weight: 700;
   color: aliceblue;
@@ -33,7 +33,7 @@ font-family: 'Satisfy', cursive;
 
 .jumbotron h3 {
   margin: 0 0 20px;
-  font-family: Brain Flower;
+  font-family:'Amatic SC', cursive;
   font-size: 3.5em;
   font-weight: 700;
   color:#23e9ce;
@@ -58,7 +58,7 @@ header h1 {
 .about{
     background-color: #cce8fe;
     padding: 50px 0px;
-    font-family: Brain Flower;
+    font-family:'Amatic SC', cursive;
     font-weight: 700;
     font-size: 1.7em;
 }
@@ -100,7 +100,7 @@ header h1 {
 .portfolio h3{
     margin-top:0px;
     width:100%;
-    font-family: Brain Flower;
+    font-family:'Amatic SC', cursive;
     font-size: 5.3em;
     padding: 20px 0px;
     font-weight: bolder;
@@ -115,13 +115,13 @@ header h1 {
 .portfolio-text{
     text-align: center;
     padding: 30px 0px;
-    font-family: Brain Flower;
+    font-family:'Amatic SC', cursive;
     font-size: 2.0em;
 }
 
 .contact-text{
     text-align: center;
-    font-family: Brain Flower;
+    font-family:'Amatic SC', cursive;
     font-size: 5.0em;
     font-weight: bolder;
     padding: 20px 0px;
@@ -130,7 +130,7 @@ header h1 {
 
 .contact-description{
     text-align: center;
-    font-family: Brain Flower;
+    font-family:'Amatic SC', cursive;
     font-weight:bolder;
     font-size: 2.5em;
 }

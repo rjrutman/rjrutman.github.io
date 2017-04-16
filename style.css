@@ -18,7 +18,7 @@ font-family: 'Satisfy', cursive;
   align-items: center;
   background-image: url(images/large_rain.jpg);
   background-size: cover;
-  height: 300px;
+  min-height: 300px;
   position:relative;
   }
 

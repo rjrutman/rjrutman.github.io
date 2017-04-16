@@ -1,0 +1,204 @@
+/* Table of Contens
+-------------------------------------
+-General Content
+-Typography
+-Header & Navigation
+-Images & Media
+-Footer
+-Media Queries
+
+font-family: 'Abel', sans-serif;
+font-family: 'Satisfy', cursive;
+-------------------------------------*/
+*{margin:0;padding:0;}
+
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url(images/large_rain.jpg);
+  background-size: cover;
+  height: 300px;
+  position:relative;
+  }
+
+
+.jumbotron h2{
+  margin: 0;
+  font-family: Brain Flower;
+  font-size: 7.5em;
+  font-weight: 700;
+  color: aliceblue;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  font-family: Brain Flower;
+  font-size: 3.5em;
+  font-weight: 700;
+  color:#23e9ce;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+.avatar{
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.about-header{
+    padding-top: 0px;
+}
+
+.about{
+    background-color: #cce8fe;
+    padding: 50px 0px;
+    font-family: Brain Flower;
+    font-weight: 700;
+    font-size: 1.7em;
+}
+
+.navbar{
+    background-color: #29333d;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    font-size: 20px;
+    margin-top: -30px;
+    color: aliceblue;
+    margin-bottom: 0px;
+}
+
+.about-header{
+    font-size: 3.0em;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.navbar a {
+    color: aliceblue;
+}
+.navbar a:hover {
+    color: rgba(240, 248, 255,0.7);
+    text-decoration: none;
+}
+.navbar > li{display:block;text-transform: uppercase;}
+.nav > a{text-decoration: none;color: #fff;}
+.nav > li > a.hoover{color: aliceblue;}
+
+.portfolio{
+    background-color: #29333d;
+    color: aliceblue;
+    margin-top:0px;
+}
+
+.portfolio h3{
+    margin-top:0px;
+    width:100%;
+    font-family: Brain Flower;
+    font-size: 5.3em;
+    padding: 20px 0px;
+    font-weight: bolder;
+}
+
+.thumbnails{
+    width:100%;
+    display: inline-block;
+    cursor:pointer;
+}
+
+.portfolio-text{
+    text-align: center;
+    padding: 30px 0px;
+    font-family: Brain Flower;
+    font-size: 2.0em;
+}
+
+.contact-text{
+    text-align: center;
+    font-family: Brain Flower;
+    font-size: 5.0em;
+    font-weight: bolder;
+    padding: 20px 0px;
+    margin: 0px;
+}
+
+.contact-description{
+    text-align: center;
+    font-family: Brain Flower;
+    font-weight:bolder;
+    font-size: 2.5em;
+}
+
+.contact{
+    background-color: #cce8fe;
+    
+}
+.social-icon{
+    width: 90px;
+    height: 90px;
+    line-height: 121px;
+    vertical-align:middle;
+    display: inline-block;
+    text-align: center;
+    background-color: #040404;
+    border-radius: 50%;
+    cursor:pointer;
+    padding-bottom: 20px;
+}
+a.social-icon {
+    color:#cce8fe;
+}
+a.social-icon:hover{
+    color: rgba(240, 248, 255,0.7);
+}
+
+
+.icons{
+    padding: 20px 0px;
+}
+
+
+
+
+@media (min-width: 780px) {
+    .navbar > li{display:inline-block; padding:10px 30px;}
+}
+    
+
+/* General Content
+-------------------------------------*/
+
+-------------------------------------
+
+/* Typography
+-------------------------------------*/
+
+-------------------------------------
+
+/* Header & Navigation
+-------------------------------------*/
+
+-------------------------------------
+
+/* Images & Media
+-------------------------------------*/
+
+
+
+-------------------------------------
+
+/* Footer
+-------------------------------------*/
+
+-------------------------------------
+
+/* Media Queries
+-------------------------------------*/
+
+-------------------------------------

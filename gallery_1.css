@@ -1,0 +1,71 @@
+*{margin:0;padding:0;}
+
+.name {text-align: center;}
+.title {text-align: center;}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url(images/large_rain.jpg);
+  background-size: cover;
+  min-height: 300px;
+  position:relative;
+  }
+
+.jumbotron h2{
+  margin: 0;
+  font-family:'Amatic SC', cursive;
+  font-size: 7.5em;
+  font-weight: 700;
+  color: aliceblue;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  font-family:'Amatic SC', cursive;
+  font-size: 3.5em;
+  font-weight: 700;
+  color:#23e9ce;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+.navbar{
+    background-color: #29333d;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    font-size: 20px;
+    margin-top: -30px;
+    color: aliceblue;
+    margin-bottom: 0px;
+}
+
+.about-header{
+    font-size: 3.0em;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.navbar a {
+    color: aliceblue;
+}
+.navbar a:hover {
+    color: rgba(240, 248, 255,0.7);
+    text-decoration: none;
+}
+.navbar > li{display:block;text-transform: uppercase;}
+.nav > a{text-decoration: none;color: #fff;}
+.nav > li > a.hoover{color: aliceblue;}
+
+body{background-color: #cce8fe;}
+
+.gallery {display: flex;flex-wrap: wrap;justify-content: center;margin-top:0px;background-color:#242e39;}
+.thumbnail{margin-top: 20px;}
+
+@media (min-width: 780px) {
+    .navbar > li{display:inline-block; padding:10px 30px;}
+}

@@ -3,6 +3,8 @@
 .name {text-align: center;}
 .title {text-align: center;}
 
+.gallery-item{background: cover;}
+
 .jumbotron {
   display: flex;
   align-items: center;

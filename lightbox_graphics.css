@@ -17,7 +17,7 @@
 .jumbotron h2{
   margin: 0;
   font-family:'Amatic SC', cursive;
-  font-size: 7.5em;
+  font-size: 10.5em;
   font-weight: 700;
   color: aliceblue;
 }
@@ -62,11 +62,6 @@ header h1 {
 .navbar > li{display:block;text-transform: uppercase;}
 .nav > a{text-decoration: none;color: #fff;}
 .nav > li > a.hoover{color: aliceblue;}
-
-body{background-color: #cce8fe;}
-
-.gallery {display: flex;flex-wrap: wrap;justify-content: center;margin-top:0px;}
-.thumbnail{margin-top: 20px;}
 
 @media (min-width: 780px) {
     .navbar > li{display:inline-block; padding:10px 30px;}

@@ -87,7 +87,7 @@ header h1 {
     color: rgba(240, 248, 255,0.7);
     text-decoration: none;
 }
-.navbar > li{display:block;text-transform: uppercase;font-family:'Amatic SC', cursive;}
+.navbar > li{display:block;text-transform: uppercase;font-family:'Amatic SC', cursive; font-weight: 700;}
 .nav > a{text-decoration: none;color: #fff;}
 .nav > li > a.hoover{color: aliceblue;}
 
